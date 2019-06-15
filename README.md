@@ -5,3 +5,5 @@ required fuses:
 - Div8 disabled, to get full 9.6MHz speed
 
 - BOD set to 4.3V
+
+Board layout has places for tantalum OR electrolytcc capacitors, do not solder both :)))
